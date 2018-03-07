@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HorizontalPickerView">
+        <attr name="pv_textColor" format="color|reference"/>
+        <attr name="pv_selectedTextColor" format="color|reference"/>
+        <attr name="pv_textSize" format="dimension"/>
+    </declare-styleable>
+</resources>
